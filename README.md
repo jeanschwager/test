@@ -1,6 +1,6 @@
 # 5AG07 - Introduction aux calculs non linéaires de structures par éléments finis
 
-This repository collects the material to the class 5AG07 at Sorbonne Université
+Ce repertoir est une copie du dossier 5ag07 afin de pouvoir le modifier
 
 * Teachers:
 
